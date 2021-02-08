@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on [launch-counter](https://github.com/enewton3/launch-counter)
 
-- 🌱 I’m currently learning **React, Ruby, NodeJS, Express, MongoDB, Material UI**
+- 🌱 I’m currently learning **NextJS, Electron, C++, C#**
 
 - 👨‍💻 All of my projects are available at [www.evynnewton.com](www.evynnewton.com)
 
