@@ -20,17 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enewton3&label=Profile%20views&color=0e75b6&style=flat" alt="enewton3" /> </p>
 
-- 🔭 I’m currently working on [every-metro](https://github.com/enewton3/every-metro)
-
-- 🌱 I’m currently learning **React, Ruby, NodeJS, Express, MongoDB**
-
-- 🔭 I'm currently working on [InProduction](https://github.com/enewton3/InProduction)
-
-- 🔭 I'm currently working on [launch-counter](https://github.com/enewton3/launch-counter)
+- 🌱 I’m currently learning **Firebase, NextJS**
 
 - 👨‍💻 All of my projects are available at [www.evynnewton.com](www.evynnewton.com)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Ruby on Rails**
 
 - 📫 How to reach me **newton.evyn@gmail.com**
 
