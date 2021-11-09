@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Firebase, NextJS**
 
-- 👨‍💻 All of my projects are available at [www.evynnewton.com](www.evynnewton.com)
+- 👨‍💻 All of my projects are available at [www.evynnewton.com](https://www.evynnewton.com)
 
 - 💬 Ask me about **React, Ruby on Rails**
 
