@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Evyn</h1>
-<h3 align="center">A brand-new dev from Boston, MA</h3>
+<h3 align="center">Boston, MA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enewton3&label=Profile%20views&color=0e75b6&style=flat" alt="enewton3" /> </p>
 
